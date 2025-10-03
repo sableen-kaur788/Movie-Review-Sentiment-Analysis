@@ -16,12 +16,12 @@ This project combines **Machine Learning** and **GUI development** to deliver a 
 ---
 
 ## Tech Stack
-| Technology        Purpose                                      
-| Python            Main programming language                   
-| Tkinter           GUI development                              
-| Scikit-learn      Machine Learning (Logistic Regression, TF-IDF) 
-| Joblib            Saving and loading trained model & vectorizer 
-| Git & GitHub      Version control and repository hosting
+Technology        Purpose                                      
+Python            Main programming language                   
+Tkinter           GUI development                              
+Scikit-learn      Machine Learning (Logistic Regression, TF-IDF) 
+Joblib            Saving and loading trained model & vectorizer 
+Git & GitHub      Version control and repository hosting
 
 ## Screenshots
 <img width="1903" height="1078" alt="image" src="https://github.com/user-attachments/assets/d74e9789-c70f-4be8-b2a2-64a73ab50970" />
