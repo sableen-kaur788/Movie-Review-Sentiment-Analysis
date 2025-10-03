@@ -1,4 +1,4 @@
-# Movie Review Sentiment Analysis 
+# Sentiment Analysis of Movie Reviews Using Machine Learning
 
 A **desktop application** built with **Python Tkinter** that predicts whether a movie review is **Positive 😊** or **Negative 😞** using a **Logistic Regression model** trained with **TF-IDF features**.  
 This project combines **Machine Learning** and **GUI development** to deliver a simple yet aesthetic tool for sentiment analysis.
